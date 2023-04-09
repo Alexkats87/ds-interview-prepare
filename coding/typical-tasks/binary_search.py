@@ -1,5 +1,7 @@
 """
 Find the first index where elements are different
+
+(Ozon-2019, CIAN-2021)
 """
 
 if __name__ == "__main__":

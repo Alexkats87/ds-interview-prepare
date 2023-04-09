@@ -1,5 +1,7 @@
 """
 Implement a gradient descent algorithm for linear regression
+
+(Grid Dynamics-2021)
 """
 
 import numpy as np
